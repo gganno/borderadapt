@@ -1,0 +1,6 @@
+name: Borderadapt
+version: ${project.version}
+main: us.carrotcraft.borderadapt.Borderadapt
+api-version: 1.16
+authors: [gganno]
+website: carrotcraft.us
